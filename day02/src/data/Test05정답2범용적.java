@@ -8,7 +8,7 @@ public static void main(String [] args) {
 	
 	//처리 - 가장 작은 단위로 변환하여 계산
 	
-	int t1 = h1 * 60 + m1;
+	int t1 = h1  * 60 +m1;
 	int t2= h2*60+m2;
 	int t3 = t1 + t2;
 	
