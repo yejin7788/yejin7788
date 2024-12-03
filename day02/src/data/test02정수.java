@@ -23,6 +23,6 @@ public class test02정수 {
 		int price = menu * count;
 		System.out.println(price);
 		
-		int adult = 15000
+		//int adult = 15000
 	}
 }
